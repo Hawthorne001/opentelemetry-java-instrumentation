@@ -1,1 +1,2 @@
 activej-http-6.0:javaagent
+akka-actor-fork-join-2.5:javaagent
